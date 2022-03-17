@@ -1,7 +1,10 @@
 # Kseniia Pidopryhora
 
 ## Contacts
-
+### Location : Sumy, Ukraine
+### Phone : +38 097 55 62 272
+### Email : ksenia.pidopryhora@gmail.com
+### Telegram : @sddrdz
 ## About me
 
 ## Skills
@@ -16,3 +19,4 @@ return a * b
 ## Education
 
 ## English
+A2
